@@ -10,3 +10,7 @@ The main concepts in css used here are:
 * Margin: The margin property sets the margins for an element.
 * Display: The display property specifies the display behavior (the type of rendering box) of an element.
 * Overflow: The overflow property specifies what should happen if content overflows an element's box.
+
+## Screenshots of the portfolio:
+
+Markup : ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
