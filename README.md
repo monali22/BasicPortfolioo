@@ -13,4 +13,4 @@ The main concepts in css used here are:
 
 ## Screenshots of the portfolio:
 
-Markup : ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
+[picture alt](https://drive.google.com/open?id=12FeljCcIynO0IIBro7j87t9iTR85mM1W "Title is optional")
