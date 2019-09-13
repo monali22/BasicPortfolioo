@@ -20,4 +20,4 @@ The main concepts in css used here are:
 ![ScreenShot](assets/images/Contact.png)
 
 ## Link to the portfolio
-[I'm an inline-style link](https://monali22.github.io/BasicPortfolioo/)
+[Portfolio link](https://monali22.github.io/BasicPortfolioo/)
