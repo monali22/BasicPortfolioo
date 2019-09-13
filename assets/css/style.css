@@ -24,12 +24,12 @@ nav{
     margin-left: 40%;
     margin-top: 3%;
     line-height: 3%;
-    color: #cccccc;
+    color:black
    
 }
 
 a{
-    color: #cccccc;
+    color:black
    
 }
 
@@ -107,7 +107,7 @@ footer{
 #imgText{
     position: absolute;
     height: 40px;
-    width: 170px;
+    width: 152px;
     background-color: #4aaaa5;
     margin-left: 2.5%;
     margin-top: 20%;
@@ -117,7 +117,7 @@ footer{
 #imgText2 {
     position: absolute;
     height: 40px;
-    width: 170px;
+    width: 152px;
     background-color: #4aaaa5;
     margin-left: 26.5%;
     margin-top: 20%;
@@ -127,7 +127,7 @@ footer{
 #imgText3 {
     position: absolute;
     height: 40px;
-    width: 170px;
+    width: 152px;
     background-color: #4aaaa5;
     margin-left: 50.5%;
     margin-top: 20%;
@@ -137,7 +137,7 @@ footer{
 #imgText4 {
     position: absolute;
     height: 40px;
-    width: 170px;
+    width: 152px;
     background-color: #4aaaa5;
     margin-left: 74.5%;
     margin-top: 20%;
