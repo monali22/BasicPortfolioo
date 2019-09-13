@@ -1,0 +1,167 @@
+header{
+    height: 80px;
+    background-color:white;
+    display: block;
+    
+}
+
+#name{
+    background: #4aaaa5;
+    width: 14%;
+    font-size: 50px;
+    color: white;
+    margin-left: 15%;
+    float: left;
+    margin-top: 0%;
+    padding-inline: 12%;
+    height: 80px;
+    line-height: 1.5;
+    text-align: center
+}
+
+nav{
+    float: left;
+    margin-left: 40%;
+    margin-top: 3%;
+    line-height: 3%;
+    color: #cccccc;
+   
+}
+
+a{
+    color: #cccccc;
+   
+}
+
+
+
+body{
+    background: #cccccc
+}
+
+#divAboutMe{
+    margin: 3% 0% 0% 15%;
+    width: 68%;
+    height: 400px;
+    background: white
+}
+
+#aboutMe {
+    color: #4aaaa5;
+    font-size: 35px;
+    padding-top: 2%;
+    padding-left: 20px
+    
+}
+
+hr {
+    padding-left: 20px;
+    width: 92%;
+    height: 1px;
+    background-color:#cccccc; 
+    
+}
+
+img {
+    width: 20%;
+    height: 30%;
+    margin-right: 15px;
+    float: left;
+
+}
+
+#aboutmetext {
+line-height: 30px;
+padding-left: 20px;
+width: 92%;
+}
+
+footer{
+    margin-top: 5%;
+    height: 70px;
+    background-color: #666666;
+    border-top-style: solid;
+    border-color: #4aaaa5;
+    border-width: 10px;
+}
+
+#copyR {
+    text-align: center
+}
+
+#portfolioImg {
+    width: 20%;
+    height: 250px;
+    /* margin-right: 15px; */
+    /* float: left; */
+    padding-left: 20px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+   
+  }
+
+#imgText{
+    position: absolute;
+    height: 40px;
+    width: 170px;
+    background-color: #4aaaa5;
+    margin-left: 2.5%;
+    margin-top: 20%;
+    font-size: 30px
+}
+
+#imgText2 {
+    position: absolute;
+    height: 40px;
+    width: 170px;
+    background-color: #4aaaa5;
+    margin-left: 26.5%;
+    margin-top: 20%;
+    font-size: 30px
+}
+
+#imgText3 {
+    position: absolute;
+    height: 40px;
+    width: 170px;
+    background-color: #4aaaa5;
+    margin-left: 50.5%;
+    margin-top: 20%;
+    font-size: 30px 
+}
+
+#imgText4 {
+    position: absolute;
+    height: 40px;
+    width: 170px;
+    background-color: #4aaaa5;
+    margin-left: 74.5%;
+    margin-top: 20%;
+    font-size: 30px 
+}
+
+p {
+    padding-left: 20px;
+}
+
+input {
+    margin-left: 20px;
+    width: 90%
+}
+
+textarea {
+    margin-left: 20px
+}
+
+#submit {
+    margin-left: 20px;
+    background-color: #4aaaa5;
+    width: 90px;
+    height: 30px;
+    color: white;
+    font-size: 20px
+}
