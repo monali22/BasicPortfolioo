@@ -14,3 +14,7 @@ The main concepts in css used here are:
 ## Screenshots of the portfolio:
 
 ![ScreenShot](assets/images/About.png)
+
+![ScreenShot](assets/images/Portfolio.png)
+
+![ScreenShot](assets/images/Contact.png)
