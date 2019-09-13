@@ -18,3 +18,6 @@ The main concepts in css used here are:
 ![ScreenShot](assets/images/Portfolio.png)
 
 ![ScreenShot](assets/images/Contact.png)
+
+## Link to the portfolio
+[I'm an inline-style link](https://monali22.github.io/BasicPortfolioo/)
