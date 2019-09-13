@@ -13,4 +13,4 @@ The main concepts in css used here are:
 
 ## Screenshots of the portfolio:
 
-[picture alt](https://drive.google.com/open?id=12FeljCcIynO0IIBro7j87t9iTR85mM1W "About Me")
+![ScreenShot](https://drive.google.com/open?id=12FeljCcIynO0IIBro7j87t9iTR85mM1W)
